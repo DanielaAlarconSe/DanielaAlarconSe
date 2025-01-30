@@ -10,7 +10,7 @@
   <li>🎓 Ingeniera de Software egresada de la Universidad Surcolombiana (2018 - 2022).</li>
   <li>🎓 Título provisional Máster en Ciberseguridad en la Universidad Internacional de La Rioja - UNIR (2024).</li>
   <li>💼 Más de 3 años de experiencia en análisis, desarrollo y soporte de aplicaciones web.</li>
-  <li>🔒 Certificada como Lead Auditor en ISO/IEC 27001 con experiencia en seguridad informática.</li>
+  <li>🔒 Certificada como Lead Auditor en ISO/IEC 27001 y Internal Auditor ISO 27001:2022 con experiencia en seguridad informática.</li>
   <li>🛠️ Experta en Java, Angular, Spring Boot, SQL, MySQL, PostgreSQL, Python, Node.js y C#.</li>
   <li>📫 Contacto: <strong>danielaalarconsepulveda30@gmail.com</strong></li>
 </ul>
