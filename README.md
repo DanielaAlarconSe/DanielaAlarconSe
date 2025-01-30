@@ -26,6 +26,7 @@
 
 <h2 align="left">Certificaciones 🎓</h2>
 <ul align="left">
+  <li>Internal Auditor ISO 27001:2022 - Information Security Management Systems (UNIR) with TÜV Rheinland Certified Qualification (2024)</li>
   <li>ISO/IEC 27001 Lead Auditor - Cert Join (2024)</li>
   <li>Hacking Ético - Certificación EHCA (2024)</li>
   <li>Curso de Sensibilización y Fundamentación en Ciberseguridad - Women Training Series (2024)</li>
