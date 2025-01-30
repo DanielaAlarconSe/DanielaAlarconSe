@@ -37,8 +37,8 @@
 
 <h2>GitHub :octocat:</h2>
 <p align="center">
-  <img title="🔥 GitHub Streak" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielaAlarcon&theme=dark&hide_border=false" />
+  <img title="🔥 GitHub Streak" alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielaAlarconSe&theme=dark&hide_border=false" />
 </p>
 <p align="center">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaAlarcon&theme=dark&hide_border=false&langs_count=6" />
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielaAlarconSe&theme=dark&hide_border=false&langs_count=6" />
 </p>
