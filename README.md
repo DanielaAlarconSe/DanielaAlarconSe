@@ -19,7 +19,7 @@
 <h2>Tecnologías conocidas 👨🏻‍💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,spring,mysql,postgres,python,nodejs,csharp,linux,docker&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,angular,spring,mysql,postgres,python,nodejs,cs,linux,docker&perline=10" />
   </a>
 </p>
 <br>
